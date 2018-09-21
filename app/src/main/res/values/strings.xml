@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tetris Repos</string>
+    <string name="title_activity_git_hub_search">Search GitHub</string>
+    <string name="label_query">Query</string>
+    <string name="hint_query">enter your query here…</string>
+    <string name="label_wiki">✓ wiki</string>
+    <string name="default_search_query">tetris</string>
+    <string name="msg_loading">Loading in progress please wait…</string>
+    <string name="msg_request_error">An error has occured request will be repeated in about 60 seconds.</string>
+</resources>
